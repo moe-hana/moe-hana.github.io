@@ -1,16 +1,47 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Thank you for visiting my blog. 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## 日本語
 
-What else do you need?
+こんにちは，moe-hanaです．
 
-### My story
+モノ作りやデザインをすることが好きです．
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+趣味で作ったものをどこかにまとめられたらいいな～と思って，github.ioを使い始めました．
+
+
+あと，散歩中に野良猫を探すことが好きです．
+
+もしかしたら，このブログにもいるかもしれません🐈
+
+
+ところで，faviconの正体は分かりますか？
+
+ただの丸ではないのです🍑
+
+
+## English
+
+(Note) I'm beginner of english. So, the following sentence may be wrong;;
+
+
+Hello, this is moe-hana.
+
+I like DIY and design.
+
+I started to use github.io to record my works.
+
+
+Also, I like finding stray cats during the walk.
+
+They may hidden in this site🐈
+
+
+By the way, do you identify the favicon of this site?
+
+It's not a yellow ball🍑
+
