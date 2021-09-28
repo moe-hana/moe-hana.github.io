@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyllを使ってGithub.ioでブログを作る
-subtitle: Ruby全く知らないけど
+subtitle: Ruby全く分かりません
 tags: [github, jekyll, ruby]
 comments: false
 ---
@@ -9,7 +9,7 @@ comments: false
 ## Jekill（ジキル）
 - 個人、プロジェクト又は組織のサイト向けの、簡単で、ブログのような静的サイトジェネレーターである（[wikipedia](https://ja.wikipedia.org/wiki/Jekyll)より)
 - Rubyで開発されている
-	- のでJekyllを利用するのに必要な「Bundler」や「Gemfile」などの単語が全く分かりません．でもやる！
+	- Jekyllを利用すると「Bundler」や「Gemfile」などの単語がでてきますが，分からなくても大丈夫です（たぶん）
 
 ## 開発環境の用意
 ### on Ubuntu 20.04
@@ -39,7 +39,7 @@ gem install jekyll bundler
 ### on Windows
 （注意）私の環境はGitBashやVSCodeを利用して，Linux系コマンドが実行できるターミナルがあります
 #### Rubyのインストール
-1. https://rubyinstaller.org/downloads/へアクセス
+1. [ダウンロードページ](https://rubyinstaller.org/downloads/)へアクセス
 2. 「RubyInstallers」セクションの「WITH DEVKIT」から「⇒」マークが付いているリンクを選択します
 	- 例）⇒ Ruby+Devkit 3.0.2-1 (x64)
 3. ダウンロードしたファイルを管理者として実行します
